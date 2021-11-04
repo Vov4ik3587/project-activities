@@ -1,0 +1,14 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: "Trebuchet MS";
+}
+h2 {
+    font-size: 40px;
+    font-weight: normal;
+    font-family: Georgia;
+}
+p {
+    font-size: 30px;
+    font-family: Arial;
+}
